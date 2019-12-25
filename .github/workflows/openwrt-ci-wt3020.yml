@@ -120,7 +120,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-pptp-server is not set
           CONFIG_PACKAGE_luci-app-samba=y
           #CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Kcptun is not set
-          CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Shadowsocks=y
+          #CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Shadowsocks is not set
           # CONFIG_PACKAGE_luci-app-vlmcsd is not set
           # CONFIG_PACKAGE_luci-app-vsftpd is not set
           # CONFIG_PACKAGE_luci-app-wol is not set
@@ -130,7 +130,7 @@ jobs:
           CONFIG_PACKAGE_luci-theme-argon=y
           # CONFIG_PACKAGE_pptpd is not set
           CONFIG_PACKAGE_samba36-server=y
-          CONFIG_PACKAGE_shadowsocks-libev-config=y
+          #CONFIG_PACKAGE_shadowsocks-libev-config is not set
           CONFIG_PACKAGE_shadowsocks-libev-ss-redir=y
           # CONFIG_PACKAGE_vlmcsd is not set
           # CONFIG_PACKAGE_vsftpd-alt is not set
