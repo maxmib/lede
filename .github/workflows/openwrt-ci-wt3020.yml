@@ -105,7 +105,7 @@ jobs:
           # CONFIG_PACKAGE_coreutils-nohup is not set
           # CONFIG_PACKAGE_etherwake is not set
           CONFIG_PACKAGE_frpc=y
-          CONFIG_PACKAGE_kcptun-client=y
+          #CONFIG_PACKAGE_kcptun-client is not set
           # CONFIG_PACKAGE_kmod-gre is not set
           # CONFIG_PACKAGE_kmod-tun is not set
           CONFIG_PACKAGE_libev=y
@@ -119,7 +119,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-frpc=y
           # CONFIG_PACKAGE_luci-app-pptp-server is not set
           CONFIG_PACKAGE_luci-app-samba=y
-          CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Kcptun=y
+          #CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Kcptun is not set
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Shadowsocks=y
           # CONFIG_PACKAGE_luci-app-vlmcsd is not set
           # CONFIG_PACKAGE_luci-app-vsftpd is not set
